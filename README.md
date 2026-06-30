@@ -5,3 +5,5 @@ shelf microcontroller board to make  a standalone keypad (eg the TTGO T7-S3 is a
 
 Theres some simple python code in here, and there is an example program in https://github.com/unixbigot/stacx, but
 you should probably consider the [ZMK firmware](https://github.com/zmkfirmware/zmk) as the best starting point.
+
+![Photograph of the assembled Molly PCB](molly.jpeg)
